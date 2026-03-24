@@ -9,19 +9,19 @@
 
 ---
 
-## 👨‍💻 Hakkımda
+## ð¨âð» HakkÄ±mda
 
-Full-Stack Developer olarak modern ve kullanıcı dostu web ürünleri geliştiriyorum. "Sıfırdan Ürüne" yaklaşımıyla fikirden canlıya giden süreçlerin tamamını yönetiyorum.
+Full-Stack Developer olarak modern ve kullanÄ±cÄ± dostu web Ã¼rÃ¼nleri geliÅtiriyorum. "SÄ±fÄ±rdan ÃrÃ¼ne" yaklaÅÄ±mÄ±yla fikirden canlÄ±ya giden sÃ¼reÃ§lerin tamamÄ±nÄ± yÃ¶netiyorum.
 
-- 🔭 Şu an **Next.js, TypeScript ve Firebase** ile projeler geliştiriyorum
-- 🌱 Her gün yeni şeyler öğrenerek kendimi geliştiriyorum
-- 🚀 Hedefim: Türkiye yazılım sektöründe kaliteli ürünler üretmek
-- 💼 Junior geliştirici olarak sektörde iz bırakmaya kararlıyım
-- 📍 İstanbul, Türkiye 🇹🇷
+- ð­ Åu an **Next.js, TypeScript ve Firebase** ile projeler geliÅtiriyorum
+- ð± Her gÃ¼n yeni Åeyler Ã¶Ärenerek kendimi geliÅtiriyorum
+- ð Hedefim: TÃ¼rkiye yazÄ±lÄ±m sektÃ¶rÃ¼nde kaliteli Ã¼rÃ¼nler Ã¼retmek
+- ð¼ Junior geliÅtirici olarak sektÃ¶rde iz bÄ±rakmaya kararlÄ±yÄ±m
+- ð Ä°stanbul, TÃ¼rkiye ð¹ð·
 
 ---
 
-## 🛠️ Teknoloji Stack'im
+## ð ï¸ Teknoloji Stack'im
 
 <div align="center">
 
@@ -40,19 +40,19 @@ Full-Stack Developer olarak modern ve kullanıcı dostu web ürünleri geliştir
 
 ---
 
-## 🚀 Öne Çıkan Projelerim
+## ð Ãne ÃÄ±kan Projelerim
 
-| Proje | Teknolojiler | Açıklama |
+| Proje | Teknolojiler | AÃ§Ä±klama |
 |-------|-------------|----------|
-| [🎸 Jaxophone Music Shop](https://github.com/kyetim/jaxophone-music-shop) | Next.js · TypeScript · Firebase | Modern müzik aleti e-ticaret platformu |
-| [💬 Mizmiz Social App](https://github.com/kyetim/mizmiz-social-app) | TypeScript · Full-Stack | Modern sosyal medya platformu |
-| [🚛 Ufuk Lojistik](https://github.com/kyetim/ufuk-logistic-clean) | Next.js · TypeScript | Kurumsal lojistik şirketi web sitesi |
-| [📦 LogiTrack System](https://github.com/kyetim/LogiTrack-System) | TypeScript | Lojistik takip ve yönetim sistemi |
-| [🍽️ Bugün Ne Yiyelim](https://github.com/kyetim/bugun-ne-yiyelim) | HTML · CSS · JS | Günlük yemek öneri uygulaması |
+| [ð¸ Jaxophone Music Shop](https://github.com/kyetim/jaxophone-music-shop) | Next.js Â· TypeScript Â· Firebase | Modern mÃ¼zik aleti e-ticaret platformu |
+| [ð¬ Mizmiz Social App](https://github.com/kyetim/mizmiz-social-app) | TypeScript Â· Full-Stack | Modern sosyal medya platformu |
+| [ð Ufuk Lojistik](https://github.com/kyetim/ufuk-logistic-clean) | Next.js Â· TypeScript | Kurumsal lojistik Åirketi web sitesi |
+| [ð¦ LogiTrack System](https://github.com/kyetim/LogiTrack-System) | TypeScript | Lojistik takip ve yÃ¶netim sistemi |
+| [ð½ï¸ BugÃ¼n Ne Yiyelim](https://github.com/kyetim/bugun-ne-yiyelim) | HTML Â· CSS Â· JS | GÃ¼nlÃ¼k yemek Ã¶neri uygulamasÄ± |
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## ð GitHub Ä°statistiklerim
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kyetim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
@@ -65,11 +65,11 @@ Full-Stack Developer olarak modern ve kullanıcı dostu web ürünleri geliştir
 
 ---
 
-## 📫 Bana Ulaşın
+## ð« Bana UlaÅÄ±n
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kyetim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-yetim-3069b21b2/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyetim)
 [![E-posta](https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.kyetim12@gmail.com)
 
