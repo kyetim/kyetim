@@ -1,26 +1,4 @@
-<div align="center">  x
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Merhaba%2C+Ben+Kadir!+%F0%9F%91%8B;Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+Firebase;S%C4%B1f%C4%B1rdan+%C3%9Cr%C3%BCne+%F0%9F%9A%80" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=kyetim&color=6366f1&style=flat-square)
-![Followers](https://img.shields.io/github/followers/kyetim?style=flat-square&color=6366f1)
-
-</div>
-
----
-
-## 📋💬 Hakkımda
-
-Full-Stack Developer olarak modern ve kullanıcı dostu web ürünleri geliştiriyorum. "Sıfırdan Ürüne" yaklaşımıyla fikirden canlıya giden süreclerin tamamını yönetiyorum.
-
-- 💡 **Next.js**, **TypeScript** ve **Firebase** ile projeler geliştiriyorum
-- 📈 Her gün yeni şeyler öğrenerek kendimi geliştiriyorum
-- 🎯 Hedefim: Türkiye yazılım sektöründe kaliteli ürünler üretmek
-- 💼 Junior geliştirici olarak sektörde iz bırakmaya kararlıyım
-- 📍 Mersin, Türkiye 🇹🇷 &mdash; Remote available
-
----
-
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Merhaba%2C+Ben+Kadir!+%F0%9F%91%8B;Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+Firebase;S%C4%B1f%C4%B1rdan+%C3%9Cr%C3%BCne+%F0%9F%9A%80" alt="Typing SVG" />
 
