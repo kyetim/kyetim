@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">  
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Merhaba%2C+Ben+Kadir!+%F0%9F%91%8B;Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+Firebase;S%C4%B1f%C4%B1rdan+%C3%9Cr%C3%BCne+%F0%9F%9A%80" alt="Typing SVG" />
 
