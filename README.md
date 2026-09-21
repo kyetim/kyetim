@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://kisisel-portfolyo.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-kisisel--portfolyo.vercel.app-1C2230?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/kadir-yetim-3069b21b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kadir%20Yetim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mr.kyetim12@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-mr.kyetim12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://kisisel-portfolyo.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1C2230?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kadir-yetim-3069b21b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:mr.kyetim12@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ## About
