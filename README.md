@@ -2,7 +2,7 @@
 
 # Kadir Yetim
 
-**Full-Stack Developer** — web, mobile & desktop products for real clients
+**Full-Stack Developer** — web, mobile & desktop products for real clients<br>
 Mersin, Türkiye · Open to remote work
 
 [Portfolio](https://kisisel-portfolyo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/kadir-yetim-3069b21b2/) · [E-mail](mailto:mr.kyetim12@gmail.com)
@@ -27,12 +27,12 @@ I build products end to end: from the database schema and API to the admin dashb
 
 ## Tech I work with
 
-**Languages:** TypeScript, JavaScript, Python, SQL
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, NestJS, Express, Prisma
-**Data:** PostgreSQL / PostGIS, Redis, SQLite, Supabase, Firebase
-**Mobile & desktop:** React Native (Expo), Electron
-**Tooling:** Docker, Git, Vercel
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, NestJS, Express, Prisma
+- **Data:** PostgreSQL / PostGIS, Redis, SQLite, Supabase, Firebase
+- **Mobile & desktop:** React Native (Expo), Electron
+- **Tooling:** Docker, Git, Vercel
 
 ---
 
